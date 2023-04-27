@@ -1,3 +1,8 @@
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/bhavymunjani/bhavymunjani/master/name.svg" alt="bhavymunjani" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Bhavy Munjani</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
