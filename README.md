@@ -23,3 +23,8 @@
 <a href="https://www.leetcode.com/bhavymunjani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhavymunjani" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats-ten-navy.vercel.app/api/top-langs?username=bhavymunjani&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="bhavymunjani" /></p>
+
+<p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=bhavymunjani&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="bhavymunjani"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavymunjani&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="bhavymunjani" /></p>
